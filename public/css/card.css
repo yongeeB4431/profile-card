@@ -43,6 +43,7 @@ body {
 
 .card:hover {
   transform: scale(1.05);
+  background: linear-gradient(black, rgba(45, 1, 126, 0.2));
 }
 
 .card img {
